@@ -7,7 +7,7 @@ client: ''
 description: Sometimes I paint.
 featuredImage:
   type: ImageBlock
-  url: /images/bg3.jpg
+  url: /images/1.jpg
   altText: Project thumbnail image
 media:
   type: ImageBlock
