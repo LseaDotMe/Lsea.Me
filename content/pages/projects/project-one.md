@@ -7,7 +7,7 @@ client: ''
 description: Sometimes I make paper.
 featuredImage:
   type: ImageBlock
-  url: /images/bg1.jpg
+  url: /images/IMG_2665.JPEG
   altText: Project thumbnail image
 media:
   type: ImageBlock
