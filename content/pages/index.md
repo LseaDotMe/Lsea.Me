@@ -29,7 +29,7 @@ sections:
           - pb-14
           - pl-4
           - pr-4
-        alignItems: center
+        alignItems: flex-end
         justifyContent: flex-end
         flexDirection: row-reverse
         borderColor: border-dark
