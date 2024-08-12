@@ -7,7 +7,7 @@ client: ''
 description: Sometimes I sew and things.
 featuredImage:
   type: ImageBlock
-  url: /images/bg2.jpg
+  url: /images/Amaranth.jpeg
   altText: Project thumbnail image
 media:
   type: ImageBlock
