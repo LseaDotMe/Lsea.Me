@@ -17,11 +17,6 @@
                 "type": "Link",
                 "label": "about",
                 "url": "/info"
-            },
-            {
-                "type": "Link",
-                "label": "Blog",
-                "url": "/blog"
             }
         ],
         "socialLinks": [
