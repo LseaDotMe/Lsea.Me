@@ -3,7 +3,7 @@ type: ProjectLayout
 title: Textile
 colors: colors-a
 date: '2021-12-20'
-client: Sometimes I sew and things.
+client: ''
 description: ''
 featuredImage:
   type: ImageBlock
