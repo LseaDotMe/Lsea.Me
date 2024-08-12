@@ -36,7 +36,7 @@ sections:
         borderWidth: 0
         borderStyle: solid
       title:
-        textAlign: left
+        textAlign: center
       subtitle:
         textAlign: left
       text:
