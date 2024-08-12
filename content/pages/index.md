@@ -33,6 +33,7 @@ sections:
         justifyContent: flex-start
         flexDirection: row-reverse
         borderColor: border-primary
+        borderWidth: 2
       title:
         textAlign: left
       subtitle:
