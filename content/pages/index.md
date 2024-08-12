@@ -34,6 +34,7 @@ sections:
         flexDirection: row-reverse
         borderColor: border-dark
         borderWidth: 6
+        borderStyle: double
       title:
         textAlign: left
       subtitle:
