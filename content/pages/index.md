@@ -18,20 +18,23 @@ sections:
     styles:
       self:
         height: auto
-        width: wide
+        width: full
         margin:
           - mt-0
           - mb-0
           - ml-0
           - mr-0
         padding:
-          - pt-36
-          - pb-48
+          - pt-12
+          - pb-14
           - pl-4
           - pr-4
-        alignItems: center
-        justifyContent: center
+        alignItems: flex-end
+        justifyContent: flex-end
         flexDirection: row-reverse
+        borderColor: border-dark
+        borderWidth: 0
+        borderStyle: solid
       title:
         textAlign: left
       subtitle:
