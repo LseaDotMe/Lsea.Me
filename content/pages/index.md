@@ -39,6 +39,7 @@ sections:
         textAlign: center
       subtitle:
         textAlign: center
+        fontWeight: 400
       text:
         textAlign: left
       actions:
