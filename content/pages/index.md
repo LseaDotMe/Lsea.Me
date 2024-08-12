@@ -32,6 +32,7 @@ sections:
         alignItems: center
         justifyContent: flex-start
         flexDirection: row-reverse
+        borderColor: border-primary
       title:
         textAlign: left
       subtitle:
