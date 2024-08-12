@@ -32,7 +32,7 @@ sections:
         alignItems: center
         justifyContent: flex-start
         flexDirection: row-reverse
-        borderColor: border-primary
+        borderColor: border-dark
         borderWidth: 6
       title:
         textAlign: left
