@@ -31,7 +31,7 @@ sections:
           - pr-4
         alignItems: center
         justifyContent: flex-start
-        flexDirection: row-reverse
+        flexDirection: row
         borderColor: border-dark
         borderWidth: 0
         borderStyle: solid
