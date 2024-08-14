@@ -17,7 +17,7 @@ backgroundImage:
   type: BackgroundImage
   url: /images/white.png
   backgroundSize: contain
-  backgroundPosition: center
+  backgroundPosition: bottom
   backgroundRepeat: no-repeat
   opacity: 100
 ---
