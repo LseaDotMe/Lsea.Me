@@ -1,7 +1,7 @@
 ---
 type: ProjectLayout
 title: Textile
-colors: colors-a
+colors: colors-d
 date: '2021-12-20'
 client: ''
 description: Sometimes I sew and things.
