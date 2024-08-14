@@ -18,7 +18,7 @@ backgroundImage:
   url: /images/white.png
   backgroundSize: contain
   backgroundPosition: bottom
-  backgroundRepeat: no-repeat
+  backgroundRepeat: repeat
   opacity: 100
 ---
 
