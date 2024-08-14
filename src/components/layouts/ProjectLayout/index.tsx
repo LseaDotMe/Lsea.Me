@@ -83,7 +83,7 @@ function ProjectNavItem({ project, label }) {
                     <div className="h-0 w-full mb-6 pt-2/3 relative overflow-hidden">
                         <ImageBlock
                             {...project.featuredImage}
-                            className="absolute left-0 top-0 h-full w-full object-cover transition-transform duration-500 group-hover:scale-100"
+                            className="absolute left-0 top-0 h-full w-full object-cover"
                         />
                     </div>
                 )}
